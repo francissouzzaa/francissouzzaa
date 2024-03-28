@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Wordpress
 - 📫 [How to reach me ... ](https://wa.me/5528999582457)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... tenho uma quedinha por física quântica
+- ⚡ Fun fact: ... tenho uma quedinha por Física Quântica
 
 <!---
 francissouzzaa/francissouzzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
